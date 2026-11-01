@@ -7,4 +7,6 @@ This is the Quarto website of Alvaro Gavilán-Rojas.
 - Structural engineering
 - Scientific programming
 
+My [YouTube channel](https://www.youtube.com/@alvaro_gavilan_rojas)
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
