@@ -5,7 +5,8 @@ website:
   title: ""
   navbar:
     left:
-      - index.qmd
+      - href: index.qmd
+        text: "Home"
       - about.qmd
 
 format:
