@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+This is the Quarto website of Alvaro Gavilán-Rojas.
+
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
