@@ -5,7 +5,8 @@ title: "Home"
 This is the Quarto website of Alvaro Gavilán-Rojas.
 
 - Structural engineering
-- Scientific programming
+- Scientific programming with Julia
+- Producing nice reproducible documents with Julia and Quarto
 
 My [YouTube channel](https://www.youtube.com/@alvaro_gavilan_rojas)
 
