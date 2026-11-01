@@ -4,9 +4,33 @@ title: "SMath Studio"
 
 Worksheets that I developed in [SMath Studio](https://smath.com)
 
+In the past, I developed an [extensive 25 hour long course in spanish](https://www.youtube.com/watch?v=k6clTXI0UkE&list=PLmlHs7mJNSf_towybanvlf-yd-hTx3shc) on [SMath Studio](https://smath.com).
+
+
+# SMath Studio course
+
+## 1. Introduction
+
+
+## 2. Variables and units
+
+## 3. Vectors and matrices
+
+## 4. Differential equations
+
+## 5. Vector equations
+
+## 6. Plots
+
+## 7. Programming (I)
+
+## 8. Programming (II)
+
+## 9. Programming (III)
+
+## 10. Programming (IV)
+
+
 # Finite element analysis
 
-
-
 # Project management
-

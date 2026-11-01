@@ -4,27 +4,97 @@
     "href": "smath_studio.html",
     "title": "SMath Studio",
     "section": "",
-    "text": "Worksheets that I developed in SMath Studio\n\nFinite element analysis\n\n\nProject management"
+    "text": "Worksheets that I developed in SMath Studio\nIn the past, I developed an extensive 25 hour long course in spanish on SMath Studio."
+  },
+  {
+    "objectID": "smath_studio.html#introduction",
+    "href": "smath_studio.html#introduction",
+    "title": "SMath Studio",
+    "section": "1. Introduction",
+    "text": "1. Introduction"
+  },
+  {
+    "objectID": "smath_studio.html#variables-and-units",
+    "href": "smath_studio.html#variables-and-units",
+    "title": "SMath Studio",
+    "section": "2. Variables and units",
+    "text": "2. Variables and units"
+  },
+  {
+    "objectID": "smath_studio.html#vectors-and-matrices",
+    "href": "smath_studio.html#vectors-and-matrices",
+    "title": "SMath Studio",
+    "section": "3. Vectors and matrices",
+    "text": "3. Vectors and matrices"
+  },
+  {
+    "objectID": "smath_studio.html#differential-equations",
+    "href": "smath_studio.html#differential-equations",
+    "title": "SMath Studio",
+    "section": "4. Differential equations",
+    "text": "4. Differential equations"
+  },
+  {
+    "objectID": "smath_studio.html#vector-equations",
+    "href": "smath_studio.html#vector-equations",
+    "title": "SMath Studio",
+    "section": "5. Vector equations",
+    "text": "5. Vector equations"
+  },
+  {
+    "objectID": "smath_studio.html#plots",
+    "href": "smath_studio.html#plots",
+    "title": "SMath Studio",
+    "section": "6. Plots",
+    "text": "6. Plots"
+  },
+  {
+    "objectID": "smath_studio.html#programming-i",
+    "href": "smath_studio.html#programming-i",
+    "title": "SMath Studio",
+    "section": "7. Programming (I)",
+    "text": "7. Programming (I)"
+  },
+  {
+    "objectID": "smath_studio.html#programming-ii",
+    "href": "smath_studio.html#programming-ii",
+    "title": "SMath Studio",
+    "section": "8. Programming (II)",
+    "text": "8. Programming (II)"
+  },
+  {
+    "objectID": "smath_studio.html#programming-iii",
+    "href": "smath_studio.html#programming-iii",
+    "title": "SMath Studio",
+    "section": "9. Programming (III)",
+    "text": "9. Programming (III)"
+  },
+  {
+    "objectID": "smath_studio.html#programming-iv",
+    "href": "smath_studio.html#programming-iv",
+    "title": "SMath Studio",
+    "section": "10. Programming (IV)",
+    "text": "10. Programming (IV)"
   },
   {
     "objectID": "first_post.html",
     "href": "first_post.html",
     "title": "Trapezoidal plate deflection",
     "section": "",
-    "text": "In this post, I share a Quarto document that."
+    "text": "In this post, I share a Quarto document that details the deflection calculation for a trapezoidal plate under uniformly distributed vertical load."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Personal\nI am Alvaro Gavilán-Rojas, a civil structural engineer (2021) born in 1995 in Asunción, Paraguay. I live in Rennes, France, where I did my PhD (2025) in computational mechanics. I started this personal website to share posts about:\n\nSolid and structural mechanics\nStructural engineering\nScientific programming with Julia\nProducing nice reproducible documents with Julia and Quarto\n\nI have a YouTube channel where I also upload content on these topics and guitar music.\nIn the past, I developed an extensive 25 hour long course in spanish on SMath Studio.\n\n\nWebsite\nI develop and maintain the code for this website using Quarto. Hosting is provided by Github Pages and DNS is provided by Squarespace."
+    "text": "Personal\nI am Alvaro Gavilán-Rojas, a civil structural engineer (2021) born in 1995 in Asunción, Paraguay. I live in Rennes, France, where I did my PhD (2025) in computational mechanics. I started this personal website to share posts about:\n\nStructural mechanics\nScientific programming with Julia\nReproducible documents with Quarto\n\nI have a YouTube channel where I upload content on these topics and guitar music.\n\n\nWebsite\nI develop and maintain the code for this website using Quarto. Hosting is provided by Github Pages and DNS is provided by Squarespace."
   },
   {
-    "objectID": "home.html",
-    "href": "home.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This is the Quarto website of Alvaro Gavilán-Rojas.\nLatest posts:\n\nSMath Studio contributions\nStructural"
+    "text": "Latest posts\n\nSMath Studio contributions\nStructural"
   }
 ]

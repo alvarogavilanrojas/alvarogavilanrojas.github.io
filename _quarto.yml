@@ -2,10 +2,10 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "outstanding waves"
+  title: ""
   navbar:
     left:
-      - home.qmd
+      - index.qmd
       - about.qmd
 
 format:

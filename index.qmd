@@ -2,9 +2,7 @@
 title: "Home"
 ---
 
-This is the Quarto website of Alvaro Gavilán-Rojas.
-
-Latest posts: 
+# Latest posts
 
 - [SMath Studio contributions](smath_studio.qmd)
 - [Structural](first_post.qmd)

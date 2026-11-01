@@ -6,14 +6,12 @@ title: "About"
 
 I am Alvaro Gavilán-Rojas, a civil structural engineer (2021) born in 1995 in Asunción, Paraguay. I live in Rennes, France, where I did my PhD (2025) in computational mechanics. I started this personal website to share posts about:
 
-- Solid and structural mechanics
-- Structural engineering
+- Structural mechanics
 - Scientific programming with [Julia](https://julialang.org/)
-- Producing nice reproducible documents with [Julia](https://julialang.org/) and [Quarto](https://quarto.org)
+- Reproducible documents with [Quarto](https://quarto.org)
 
-I have a [YouTube channel](https://www.youtube.com/@alvaro_gavilan_rojas) where I also upload content on these topics **and** guitar music.
+I have a [YouTube channel](https://www.youtube.com/@alvaro_gavilan_rojas) where I upload content on these topics and guitar music.
 
-In the past, I developed an [extensive 25 hour long course in spanish](https://www.youtube.com/watch?v=k6clTXI0UkE&list=PLmlHs7mJNSf_towybanvlf-yd-hTx3shc) on [SMath Studio](https://smath.com).
 
 # Website
 
