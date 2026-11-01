@@ -2,4 +2,4 @@
 title: "Trapezoidal plate deflection"
 ---
 
-In this post, I would like to present a [Quarto](https://quarto.org) document that.
+In this post, I share a [Quarto](https://quarto.org) document that.
