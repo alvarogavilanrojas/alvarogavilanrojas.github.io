@@ -1,0 +1,12 @@
+---
+title: "SMath Studio"
+---
+
+Worksheets that I developed in [SMath Studio](https://smath.com)
+
+# Finite element analysis
+
+
+
+# Project management
+
