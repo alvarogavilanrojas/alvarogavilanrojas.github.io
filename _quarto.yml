@@ -5,8 +5,7 @@ website:
   title: "Out-standing waves"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - home.qmd
       - about.qmd
 
 format:

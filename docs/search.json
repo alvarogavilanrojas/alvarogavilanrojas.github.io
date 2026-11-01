@@ -11,6 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This site is under development (01-nov-2026)"
+    "text": "Personal\nI am Alvaro Gavilán-Rojas, a civil structural engineer (2021) born in 1995 in Asunción, Paraguay. I live in Rennes, France, where I did my PhD (2025) in computational mechanics. I started this personal website to share posts about:\n\nSolid and structural mechanics\nStructural engineering\nScientific programming with Julia\nProducing nice reproducible documents with Julia and Quarto\n\nI have a YouTube channel where I also upload content on these topics and guitar music.\nIn the past, I developed an extensive 25 hour long course in spanish on SMath Studio.\n\n\nWebsite\nI develop and maintain the code for this website using Quarto. Hosting is provided by Github Pages and DNS is provided by Squarespace."
+  },
+  {
+    "objectID": "first_post.html",
+    "href": "first_post.html",
+    "title": "Trapezoidal plate deflection",
+    "section": "",
+    "text": "In this post, I would like to present a Quarto document that."
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is the Quarto website of Alvaro Gavilán-Rojas.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
